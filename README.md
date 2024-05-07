@@ -2,8 +2,6 @@
 
 ## Build Setup
 
-Access the movies directory and follow the install instructions below:
-
 ```bash
 # install dependencies
 $ npm install
