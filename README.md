@@ -2,7 +2,7 @@
 
 ## Build Setup
 
-Acess the movies directory and follow the install instructions bellow:
+Access the movies directory and follow the install instructions below:
 
 ```bash
 # install dependencies
